@@ -18,7 +18,7 @@ O Computarume 2023 é o primeiro hackacthon do Chorume da Bolha Tech, esse event
 * TODOS OS INTEGRANTES PODEM PROGRAMAR, e é recomendado que todos participem ativamente no código
 
 ## Regras 📝
-* Para participar do hackathon, o desenvolvedor deverá ter 2 (duas) semanas mínimas de participação na comunidade do Chorume da Bolha Tech
+* Para participar do hackathon, o desenvolvedor deverá ter 3 (três) semanas mínimas de participação na comunidade do Chorume da Bolha Tech
 * O evento irá acontecer em uma semana, sendo na primeira segunda-feira (a definir) o dia onde os times e temas serão selecionados, até a segunda-feira da semana seguinte
 * O integrante do time que vir a desistir do projeto será banido do Chorume durante 1 (um) mês, e receberá uma TAG de "arregão" no Discord
 * Todos os dias de evento 
@@ -28,6 +28,10 @@ O Computarume 2023 é o primeiro hackacthon do Chorume da Bolha Tech, esse event
   * Avaliação técnica (o quão escalável, bem desenvolvido e padronizado está o seu código)
   * Avaliação negocial (uma análise do modelo de negócio da solução, o quanto ela está madura para o mercado e como ela foi apresentada)
   * Avaliação do produto (uma análise do quão inovador é o seu produto, o quanto ele resolve um problema dentro do nicho dele, e como o time está pronto pra iniciar o projeto com a solução atual)
+
+## O Sorteio
+* Os integrantes serão sorteados, sendo primeiro os seniors, depois os plenos, juniors e assim por diante
+* 
 
 ## O Prêmio 🏆
 Para o time vencedor será cedido 40.000 (quarenta mil) chorumecoins, e uma tag especial no discord do chorume da bolha tech
