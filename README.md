@@ -1,12 +1,15 @@
 # COMPUTARUME-0.0.1/2023
+
 ## Hackathon do Chorume da Bolha Tech 2023
 
-![Computarume Logo](insert_logo_link_here)
+![Computarume Logo](./assets/banner.gif)
 
 ### Objetivo 🚀
+
 O **Computarume 2023** é o primeiro hackathon do **Chorume da Bolha Tech**. Este evento tem como objetivo...
 
 ### Conceitos 🤓
+
 - Os times serão compostos por desenvolvedores do **Chorume da Bolha Tech**, cada um acompanhado por um professor designado pela comunidade. (**Todos os times terão pelo menos um professor**)
 - O tema da solução será sorteado no dia do evento, através do Chat GPT.
 - O trabalho em equipe é essencial; os professores serão líderes do projeto, guiando o caminho.
@@ -20,6 +23,7 @@ O **Computarume 2023** é o primeiro hackathon do **Chorume da Bolha Tech**. Est
 - **Todos os membros podem programar** e é recomendado que todos participem ativamente na codificação.
 
 ### Regras 📝
+
 - Para participar do hackathon, o desenvolvedor deve ter pelo menos **3 semanas de participação na comunidade do Chorume da Bolha Tech**.
 - O evento acontecerá ao longo de uma semana, iniciando na primeira segunda-feira (data a ser definida) com a seleção de times e temas, e finalizando na segunda-feira da semana seguinte.
 - Um membro do time que desistir do projeto será banido da comunidade do Chorume por um mês e receberá a tag de "arregão" no Discord.
@@ -32,9 +36,12 @@ O **Computarume 2023** é o primeiro hackathon do **Chorume da Bolha Tech**. Est
   - Avaliação do Produto (inovação, resolução de problemas no nicho, e prontidão do time para prosseguir com a solução)
 
 ### O Sorteio
+
 - Os membros serão sorteados, começando pelos sêniores, seguidos pelos plenos, juniors, e assim por diante.
 
 ### O Prêmio 🏆
-O time vencedor receberá **40.000 Chorumecoins** e uma **tag especial no Discord do Chorume da Bolha Tech**.
+
+O time vencedor receberá `<img width="20px" height="20px" src="./assets/chorumecoin.png" />`  **40.000 Chorumecoins**
+e uma **tag especial no Discord do Chorume da Bolha Tech**.
 
 ## Vamos fazer deste hackathon um evento incrível, promovendo colaboração, inovação e muita COMPUTARIA!
