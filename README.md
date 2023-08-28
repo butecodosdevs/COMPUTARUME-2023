@@ -1,36 +1,40 @@
 # COMPUTARUME-0.0.1/2023
-Hackathon do Chorume da Bolha Tech 2023
+## Hackathon do Chorume da Bolha Tech 2023
 
-## Objetivo 🚀
-O Computarume 2023 é o primeiro hackacthon do Chorume da Bolha Tech, esse evento tem como 
+![Computarume Logo](insert_logo_link_here)
 
-## Conceitos 🤓
-* Os times serão formados por desenvolvedores do Chorume da Bolha Tech, além disso, estarão acompanhados com um professor definido pela comunidade (TODOS OS TIMES IRÃO TER PELO MENOS UM PROFESSOR)
-* O tema da solução será definido no dia do evento, pelo Chat GPT de forma aleatória
-* O trabalho em equipe é algo imprescindível, os professores devem ser os líderes do projeto e vão mostrar o caminho
-* As tecnologias serão definidas pelo time, podem usar o que quiser, nos impressionem!
-* O Hackathon será gravado, todos os dias o time irá se reunir em uma call gravada onde será feita uma review do dia de desenvolvimento, no último dia, iremos nos reunir em uma live com os jurados do projeto em prol de exibir essa solução no evento do projeto
-* Os times serão divididos da seguinte maneira
-  * Business Guy (um empreendedor nato, capaz de vender e ver modelos de negócio escaláveis para o seu produto)
-  * Product Guy (uma pessoa focada em deixar o produto apresentável e organizado, seja um designer ou um gestor de time)
-  * Code Guy (o integrante 100% focado em desenvolver a solução, esse dev será o responsável em desenvolver a solução de forma direta e somente isso)
-  * Sensei (o professor e dev sênior do time, será a cabeça pensante da solução e um norte para os integrantes do time)
-* TODOS OS INTEGRANTES PODEM PROGRAMAR, e é recomendado que todos participem ativamente no código
+### Objetivo 🚀
+O **Computarume 2023** é o primeiro hackathon do **Chorume da Bolha Tech**. Este evento tem como objetivo...
 
-## Regras 📝
-* Para participar do hackathon, o desenvolvedor deverá ter 3 (três) semanas mínimas de participação na comunidade do Chorume da Bolha Tech
-* O evento irá acontecer em uma semana, sendo na primeira segunda-feira (a definir) o dia onde os times e temas serão selecionados, até a segunda-feira da semana seguinte
-* O integrante do time que vir a desistir do projeto será banido do Chorume durante 1 (um) mês, e receberá uma TAG de "arregão" no Discord
-* Todos os dias de evento 
-* Em caso de desistência, o time poderá recorrer ao comitê administrativo e solicitar uma realocação de integrantes, caso não haja solução, o time pode continuar com o desfalque ou desistir do evento
-* Os times serão selecionados de forma aleatória, no dia do evento
-* O projeto será avaliado em 3 grandezas pelos jurados sendo eles:
-  * Avaliação técnica (o quão escalável, bem desenvolvido e padronizado está o seu código)
-  * Avaliação negocial (uma análise do modelo de negócio da solução, o quanto ela está madura para o mercado e como ela foi apresentada)
-  * Avaliação do produto (uma análise do quão inovador é o seu produto, o quanto ele resolve um problema dentro do nicho dele, e como o time está pronto pra iniciar o projeto com a solução atual)
+### Conceitos 🤓
+- Os times serão compostos por desenvolvedores do **Chorume da Bolha Tech**, cada um acompanhado por um professor designado pela comunidade. (**Todos os times terão pelo menos um professor**)
+- O tema da solução será sorteado no dia do evento, através do Chat GPT.
+- O trabalho em equipe é essencial; os professores serão líderes do projeto, guiando o caminho.
+- As tecnologias a serem utilizadas serão definidas pelo time. Inovação e criatividade são encorajadas!
+- O Hackathon será documentado, com reuniões diárias gravadas onde haverá uma revisão do progresso do dia. Na última sessão, haverá uma live com os jurados do projeto para apresentação final da solução.
+- Os times serão compostos da seguinte forma:
+  - Business Expert (um empreendedor habilidoso, capaz de vender e criar modelos de negócios escaláveis para o produto)
+  - Product Guru (uma pessoa focada em tornar o produto apresentável e organizado, seja um designer ou gerente de equipe)
+  - Code Ninja (o desenvolvedor focado em criar a solução, responsável direto pelo desenvolvimento)
+  - Sensei (o professor e desenvolvedor sênior do time, sendo a mente estratégica da solução e uma referência para a equipe)
+- **Todos os membros podem programar** e é recomendado que todos participem ativamente na codificação.
 
-## O Sorteio
-* Os integrantes serão sorteados, sendo primeiro os seniors, depois os plenos, juniors e assim por diante
+### Regras 📝
+- Para participar do hackathon, o desenvolvedor deve ter pelo menos **3 semanas de participação na comunidade do Chorume da Bolha Tech**.
+- O evento acontecerá ao longo de uma semana, iniciando na primeira segunda-feira (data a ser definida) com a seleção de times e temas, e finalizando na segunda-feira da semana seguinte.
+- Um membro do time que desistir do projeto será banido da comunidade do Chorume por um mês e receberá a tag de "arregão" no Discord.
+- Todos os dias do evento...
+- Em caso de desistência, o time pode recorrer ao comitê administrativo para realocação de membros. Caso não haja solução, o time pode continuar com a ausência ou optar por desistir.
+- Os times serão selecionados aleatoriamente no dia do evento.
+- O projeto será avaliado em três categorias pelos jurados:
+  - Avaliação Técnica (qualidade, escalabilidade, e padronização do código)
+  - Avaliação de Negócio (análise do modelo de negócio, maturidade para o mercado, e apresentação)
+  - Avaliação do Produto (inovação, resolução de problemas no nicho, e prontidão do time para prosseguir com a solução)
 
-## O Prêmio 🏆
-Para o time vencedor será cedido 40.000 (quarenta mil) chorumecoins, e uma tag especial no discord do chorume da bolha tech
+### O Sorteio
+- Os membros serão sorteados, começando pelos sêniores, seguidos pelos plenos, juniors, e assim por diante.
+
+### O Prêmio 🏆
+O time vencedor receberá **40.000 Chorumecoins** e uma **tag especial no Discord do Chorume da Bolha Tech**.
+
+## Vamos fazer deste hackathon um evento incrível, promovendo colaboração, inovação e muita COMPUTARIA!
