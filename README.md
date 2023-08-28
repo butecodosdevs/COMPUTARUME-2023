@@ -31,7 +31,6 @@ O Computarume 2023 é o primeiro hackacthon do Chorume da Bolha Tech, esse event
 
 ## O Sorteio
 * Os integrantes serão sorteados, sendo primeiro os seniors, depois os plenos, juniors e assim por diante
-* 
 
 ## O Prêmio 🏆
 Para o time vencedor será cedido 40.000 (quarenta mil) chorumecoins, e uma tag especial no discord do chorume da bolha tech
