@@ -41,7 +41,7 @@ O **Computarume 2023** é o primeiro hackathon do **Chorume da Bolha Tech**. Est
 
 ### O Prêmio 🏆
 
-O time vencedor receberá `<img width="20px" height="20px" src="./assets/chorumecoin.png" />`  **40.000 Chorumecoins**
+O time vencedor receberá <img width="20px" height="20px" src="./assets/chorumecoin.png" />  **40.000 Chorumecoins**
 e uma **tag especial no Discord do Chorume da Bolha Tech**.
 
 ## Vamos fazer deste hackathon um evento incrível, promovendo colaboração, inovação e muita COMPUTARIA!
