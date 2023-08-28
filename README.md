@@ -39,7 +39,7 @@ O **Computarume 2023** é o primeiro hackathon do **Chorume da Bolha Tech**. Est
 
 - Os membros serão sorteados, começando pelos professores, seguidos pelos sêniores, plenos, juniors, e assim por diante.
 
- <img width="70%" height="1900px" src="./assets/sorteio.png" />
+ <img width="100%" height="1500px" src="./assets/sorteio.png" />
 
 ### O Prêmio 🏆
 
