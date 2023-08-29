@@ -27,7 +27,7 @@ O **Computarume 2023** é o primeiro hackathon do **Chorume da Bolha Tech**. Est
 - Para participar do hackathon, o desenvolvedor deve ter pelo menos **3 semanas de participação na comunidade do Chorume da Bolha Tech**.
 - O evento acontecerá ao longo de uma semana, iniciando na primeira segunda-feira (data a ser definida) com a seleção de times e temas, e finalizando na segunda-feira da semana seguinte.
 - Um membro do time que desistir do projeto receberá um timout da comunidade do Chorume por um mês e receberá a tag de "arregão" no Discord.
-- Só é permitido que pessoas da comunidade participem do hackathon, os integrantes devem commitar usando uma ferramenta de GIT e um repositório remoto de sua escolha, e caso hajam commits de integrantes externos ao time, será passivo de desclassificação do time inteiro.
+- Só é permitido que pessoas da comunidade participem do hackathon, os integrantes devem commitar usando uma ferramenta de GIT e um repositório remoto de sua escolha, e caso hajam commits de integrantes externos ao time, o mesmo será passivo de desclassificação do time inteiro.
 - Em caso de desistência, o time pode recorrer ao comitê administrativo para realocação de membros. Caso não haja solução, o time pode continuar com a ausência ou optar por desistir.
 - Os times serão selecionados aleatoriamente no dia do evento.
 - O projeto será avaliado em três categorias pelos jurados:
