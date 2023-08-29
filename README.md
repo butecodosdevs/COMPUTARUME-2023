@@ -31,6 +31,8 @@ O **Computarume 2023** é o primeiro hackathon do **Chorume da Bolha Tech**. Est
 - Só é permitido que pessoas da comunidade participem do hackathon, os integrantes devem commitar usando uma ferramenta de GIT, e caso hajam commits de integrantes externos ao time, o mesmo será passivo de desclassificação do time inteiro.
 - Em caso de desistência, o time pode recorrer ao comitê administrativo para realocação de membros. Caso não haja solução, o time pode continuar com a ausência ou optar por desistir.
 - Os times serão selecionados aleatoriamente no dia do evento.
+- A licença do projeto é definida pelo time
+- O modelo de gerenciamento de repositórios também será definido pelo time
 - O projeto será avaliado em três categorias pelos jurados:
   - Avaliação Técnica (qualidade, escalabilidade, e padronização do código)
   - Avaliação de Negócio (análise do modelo de negócio, maturidade para o mercado, e apresentação)
