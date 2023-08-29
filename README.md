@@ -14,6 +14,7 @@ O **Computarume 2023** é o primeiro hackathon do **Chorume da Bolha Tech**. Est
 - O tema da solução será sorteado no dia do evento, através do Chat GPT.
 - O trabalho em equipe é essencial; os professores serão líderes do projeto, guiando o caminho.
 - As tecnologias a serem utilizadas serão definidas pelo time. Inovação e criatividade são encorajadas!
+- Os times deverão criar um repositório privado em qualquer 
 - O Hackathon será documentado, com reuniões diárias gravadas onde haverá uma revisão do progresso do dia. Na última sessão, haverá uma live com os jurados do projeto para apresentação final da solução.
 - Os times serão compostos da seguinte forma:
   - Business Guy (um empreendedor habilidoso, capaz de vender e criar modelos de negócios escaláveis para o produto)
@@ -27,7 +28,7 @@ O **Computarume 2023** é o primeiro hackathon do **Chorume da Bolha Tech**. Est
 - Para participar do hackathon, o desenvolvedor deve ter pelo menos **3 semanas de participação na comunidade do Chorume da Bolha Tech**.
 - O evento acontecerá ao longo de uma semana, iniciando na primeira segunda-feira (data a ser definida) com a seleção de times e temas, e finalizando na segunda-feira da semana seguinte.
 - Um membro do time que desistir do projeto receberá um timout da comunidade do Chorume por um mês e receberá a tag de "arregão" no Discord.
-- Só é permitido que pessoas da comunidade participem do hackathon, os integrantes devem commitar usando uma ferramenta de GIT e um repositório remoto de sua escolha, e caso hajam commits de integrantes externos ao time, o mesmo será passivo de desclassificação do time inteiro.
+- Só é permitido que pessoas da comunidade participem do hackathon, os integrantes devem commitar usando uma ferramenta de GIT, e caso hajam commits de integrantes externos ao time, o mesmo será passivo de desclassificação do time inteiro.
 - Em caso de desistência, o time pode recorrer ao comitê administrativo para realocação de membros. Caso não haja solução, o time pode continuar com a ausência ou optar por desistir.
 - Os times serão selecionados aleatoriamente no dia do evento.
 - O projeto será avaliado em três categorias pelos jurados:
