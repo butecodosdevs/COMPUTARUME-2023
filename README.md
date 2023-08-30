@@ -1,5 +1,8 @@
 # COMPUTARUME-0.0.1/2023
 
+* [Discord do chorume](https://discord.gg/chorume)
+* [Formulário para inscrição](https://forms.gle/gEqTj2DC9ZmE4JLc9)
+  
 ## Hackathon do Chorume da Bolha Tech 2023
 
 ![Computarume Logo](./assets/banner.gif)
