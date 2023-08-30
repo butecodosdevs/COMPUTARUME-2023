@@ -2,6 +2,7 @@
 
 * [Discord do chorume](https://discord.gg/chorume)
 * [Formulário para inscrição](https://forms.gle/gEqTj2DC9ZmE4JLc9)
+* [Vídeo da definição ](https://www.youtube.com/watch?v=QJ1_wtPiPps)
   
 ## Hackathon do Chorume da Bolha Tech 2023
 
