@@ -37,6 +37,7 @@ O **Computarume 2023** é o primeiro hackathon do **Chorume da Bolha Tech**. Est
 - Os times serão selecionados aleatoriamente no dia 15 (quinze) de Setembro de 2023.
 - A licença do projeto é definida pelo time
 - A entrega continua do projeto só poderá acontecer entre as 19:00 do dia 18 (dezoito) (BRT) de setembro de 2023 até as 23:59 do dia 25 (BRT)
+- O resultado final sairá no dia 29 e durante a semana os professores poderão avaliar os códigos uns dos outros
 - O modelo de gerenciamento de repositórios também será definido pelo time
 - O projeto será avaliado em três categorias pelos jurados:
   - Avaliação Técnica (qualidade, escalabilidade, e padronização do código)
